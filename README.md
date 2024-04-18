@@ -80,7 +80,7 @@ This repository is a collection of methods for low-light vision tasks, encompass
 | Year | Publication      | Title | Link                                                         | 
 | :--: |:---------:| :---------------------------:| :------------------------------------------------------------:| 
 | 2021 | IJCV      | Benchmarking Low-Light Image Enhancement and Beyond          | [Paper](https://link.springer.com/article/10.1007%2Fs11263-020-01418-8) |            |
-| 2021 | IEEE PAMI | Low-Light Image and Video Enhancement Using Deep Learning: A Survey | [Paper](https://doi.org/10.1109/TPAMI.2021.3126387) [Web]((https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view))           |            |
+| 2021 | IEEE PAMI | Low-Light Image and Video Enhancement Using Deep Learning: A Survey | [Paper](https://doi.org/10.1109/TPAMI.2021.3126387) [Web](https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view)          |            |
 | 2022 | ArXiv     | Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond | [Paper](http://arxiv.org/abs/2212.10772) [Web](https://github.com/shenzheng2000/llie_survey) |            |
 | 2023 | ArXiv     | DarkVision: A Benchmark for Low-Light Image/Video Perception | [Paper](https://arxiv.org/abs/2301.06269)                      | DarkVision |
 | 2023 | Signal Process. | A comprehensive experiment-based review of low-light image enhancement methods and benchmarking low-light image quality assessment  | [Paper](https://linkinghub.elsevier.com/retrieve/pii/S0165168422003607) |            |
