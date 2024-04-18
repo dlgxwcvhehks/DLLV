@@ -151,13 +151,11 @@ This repository is a collection of methods for low-light vision tasks, encompass
 
 | Year | Publication       | Title                                                     |       Abbreviation                                                   |  Link |
 | :--: | :--------:| ----- | :--------: | :-----: |
-| 1990 | TCE | Contrast limited adaptive histogram equalization: speed and effectiveness  | CLAHE | [Paper](https://ieeexplore.ieee.org/document/109340?arnumber=109340)|
 | 2007 | TCE | Brightness Preserving Dynamic Histogram Equalization for Image Contrast Enhancement | BPDHE | [Paper](https://ieeexplore.ieee.org/document/4429280) [Code](codes/bpdhe.m) |
 | 2007 | TCE | A Dynamic Histogram Equalization for Image Contrast Enhancement | DHE   |[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4266947) | 
 | 2007 | TCE | Fast Image/Video Contrast Enhancement Based on Weighted Thresholded Histogram Equalization |  WTHE  |[Paper](https://ieeexplore.ieee.org/document/4266969?arnumber=4266969) |
 | 2011 | TIP | Contextual and Variational Contrast Enhancement              |  CVC   |[Paper](http://ieeexplore.ieee.org/abstract/document/5773086/) |
 | 2013 | TIP | Contrast enhancement based on layered difference representation of 2D histograms | LDR   |[Paper](http://mcl.korea.ac.kr/projects/LDR/2013_tip_cwlee_final_hq.pdf)  [Web](http://mcl.korea.ac.kr/cwlee_tip2013/) | 
-| 2013 | ICASSP   | High efficient contrast enhancement using parametric approximation | POHE  |[Paper](http://150.162.46.34:8080/icassp2013/pdfs/0002444.pdf) | 
 
 
 
