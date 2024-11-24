@@ -211,7 +211,7 @@ This repository is a collection of methods for low-light vision tasks, encompass
 | 2023 |TPAMI  |Unsupervised Face Detection in the Dark|HLAv2 |Domain adaptation| [Paper](https://ieeexplore.ieee.org/abstract/document/9716838) |
 | 2023 |TNNLS  |LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection|LRAF-Net |Multimodal fusion| [Paper](https://ieeexplore.ieee.org/abstract/document/10144688) |
 | 2024 |CVPR |Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation|DAI-Net |Domain adaptation | [Paper](https://arxiv.org/abs/2312.01220) |
-
+| 2024 |NeurIPS  |YOLA-You-Only-Look-Around-Learning-Illumination-Invariant-Feature-for-Low-light-Object-Detection| - |Preprocessing (end-to-end) | [Paper](https://arxiv.org/pdf/2410.18398) [Code](https://github.com/MingboHong/YOLA) |
 
 <span id="other-high-level-low-light-vision-tasks"></span>
 ## 🪂 Other High-level Low-light Vision Tasks
