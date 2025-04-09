@@ -143,7 +143,9 @@ This repository is a collection of methods for low-light vision tasks, encompass
 | 2024 |  TCSVT  | Low-Light Image Enhancement With Multi-Scale Attention and Frequency-Domain Optimization  |     -   |Supervised learning| [Paper](https://ieeexplore.ieee.org/document/10244055)|
 | 2024 |  T-ITS  | Double Domain Guided Real-Time Low-Light Image Enhancement for Ultra-High-Definition Transportation  Surveillance  |     DDNet   |Supervised learning| [Paper](https://ieeexplore.ieee.org/abstract/document/10423894) [Code](https://github.com/QuJX/DDNet)|
 | 2024 | CVPR | Binarized Low-light Raw Video Enhancement  |     -   |Supervised learning| [Paper](https://arxiv.org/abs/2403.19944) [Code](https://github.com/ying-fu/BRVE)|
-
+| 2024 | arXiv | LYT-NET: Lightweight YUV Transformer-based Network for Low-light Image Enhancement |     LYT-Net   |Supervised learning| [Paper](https://arxiv.org/pdf/2401.15204v6) [Code](https://github.com/albrateanu/lyt-net)|
+| 2024 | CVPR |You Only Need One Color Space: An Efficient Network for Low-light Image Enhancement |     HVI-CIDNet   |Supervised learning| [Paper](https://arxiv.org/pdf/2402.05809v3) [Code](https://github.com/fediory/hvi-cidnet)|
+| 2024 | TMM | Cycle-Retinex: Unpaired Low-Light Image Enhancement via Retinex-Inline CycleGAN  |     Cycle-Retinex  |Unsupervised learning| [Paper](https://arxiv.org/abs/2403.19944) [Code](https://github.com/mummmml/Cycle-Retinex)|
 
 ## Non-deep Learning-based Methods
 
